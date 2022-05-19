@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Connell Do
-- 👋 Connell do stuffs hehe
+- 👋 Hi, I’m Connell Do, from Vietnam.
+- 🧠 Connell do stuffs hehe
 - 👀 I’m interested in Data & Business Analysis, Software Engineering, Blockchain, Cool UI/UX...
-- 💞️ I’m looking to learn more about Data Sciency Stuff 🧠
+- 💞️ I’m looking to learn more about ... 🧠
 - 💁🏻‍♂️ Let's be friends.
